@@ -4,7 +4,7 @@ import { Briefcase } from "lucide-react";
 
 const xp = [
   {
-    company: "Entreprise actuelle",
+    company: "NITA Transfert d'Argent",
     location: "Niamey, Niger",
     role: "Analyste SOC Junior",
     period: "Déc 2025 — Actuel",
